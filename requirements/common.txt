@@ -1,0 +1,6 @@
+# Dependencies common to all environments
+supervisor==4.2.1
+psycopg2==2.8.6
+django==3.2.19
+
+awscli==1.27.147

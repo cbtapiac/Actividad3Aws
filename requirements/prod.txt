@@ -1,0 +1,4 @@
+# Dependencies for production
+-r common.txt
+setuptools==65.5.1
+gunicorn==20.1.0
